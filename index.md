@@ -23,4 +23,7 @@ Quoting text
 This is the link to Google. [Google Link](https://www.google.com/)
 
 ### Relative Links
-This is the link to CSE110 readme file. [To Readme](Test)
+This is the link to test file. [To Test](Test.txt)
+
+### Image
+![Hello World](https://lildevilmama.com/wp-content/uploads/2019/05/hello-world-696x392.png)
