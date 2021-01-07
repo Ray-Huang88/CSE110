@@ -16,7 +16,7 @@ class HelloWorld {
 ```
 Quoting text
 ```
-**This is bold text**
+**This is bold text**\
 *This text is italicized*
 
 ### Links
