@@ -19,11 +19,14 @@ Quoting text
 **This is bold text**\
 *This text is italicized*
 
-### Links
+### Link
 This is the link to Google. [Google Link](https://www.google.com/)
 
-### Relative Links
+### Relative Link
 This is the link to test file. [To Test](Test.txt)
 
 ### Image
 ![Hello World](https://lildevilmama.com/wp-content/uploads/2019/05/hello-world-696x392.png)
+
+### Section Link
+Back to page header [Top](#welcome-to-rays-github-pages)
