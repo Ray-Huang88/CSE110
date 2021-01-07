@@ -23,4 +23,4 @@ Quoting text
 This is the link to Google. [Google Link](https://www.google.com/)
 
 ### Relative Links
-This is the link to CSE110 readme file. [To Readme](CSE110/README.md)
+This is the link to CSE110 readme file. [To Readme](CSE110/README)
